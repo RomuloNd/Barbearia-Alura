@@ -9,4 +9,6 @@ Na pagina de produtos temos o cabeçalho e logo em seguida os tipos de produtos 
 
 Na página de contato criei um forms com todos os principais  campos em um formulário, usei tambem tabelas, fieldset pra assinalar a desejada e um checkbox para receber ou não o contato e no final da pagina o rodapé com o copyright.
 
-Tecnologias utilizadas: #CSS #HTML
+Link do site: https://romulond.github.io/Barbearia-Alura/principal
+
+Tecnologias utilizadas: #CSS #HTML #JavaScript
